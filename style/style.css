@@ -19,3 +19,7 @@ td:first-of-type, td:first-of-type > div {
 form a {
     margin-left: 10px;
 }
+
+#BackToPosts {
+    float: right;
+}
