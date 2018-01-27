@@ -28,3 +28,4 @@ module.exports = {
 
 // Edit node_modules/webpack-dev-server/bin/webpack-dev-server.js
 // to change host in new Server
+// or in package.json -> start: "node ... --host '0.0.0.0'"
