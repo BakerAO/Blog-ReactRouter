@@ -20,6 +20,12 @@ form a {
     margin-left: 10px;
 }
 
-#BackToPosts {
+#floatElementRight {
     float: right;
+}
+
+#centerDiv {
+    margin: auto;
+    width: 50%;
+
 }
